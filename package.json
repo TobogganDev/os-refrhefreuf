@@ -1,0 +1,30 @@
+{
+  "name": "os_refrhefreuf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobogganDev/os-refrhefreuf.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TobogganDev/os-refrhefreuf/issues"
+  },
+  "homepage": "https://github.com/TobogganDev/os-refrhefreuf#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "babel-jest": "^29.7.0",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0"
+  }
+}
